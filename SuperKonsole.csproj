@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Yahya Gedik</Authors>
+    <Description>SuperKonsole is an easy to use Console helper to format messages easily</Description>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+
+</Project>
